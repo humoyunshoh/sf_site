@@ -1,0 +1,11 @@
+This file from nikolay-minakov branch
+-- add your text after this line
+Hello World!
+This is not first branch
+
+And here I added rahmatjon.umarov text line
+You must get us 5 points for this practice.
+
+-- end texts
+end file;
+
