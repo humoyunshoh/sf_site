@@ -3,6 +3,9 @@ This file from nikolay-minakov branch
 Hello World!
 This is not first branch
 
+And here I added rahmatjon.umarov text line
+You must get us 5 points for this practice.
+
 -- end texts
 end file;
 
